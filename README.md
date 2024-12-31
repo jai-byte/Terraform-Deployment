@@ -34,6 +34,8 @@ Define and provision S3 buckets, IAM roles, and policies.
 Launch the EC2 instance.
 Automate resource configurations.
 
+Typing...
+
 
 
 
